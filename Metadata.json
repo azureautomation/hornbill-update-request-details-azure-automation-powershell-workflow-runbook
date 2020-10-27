@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 4511,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-update-request-details-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestUpdateDetails_Workflow.ps1",
+    "DownloadCount": 686,
+    "Id": "Hornbill-Update-Request-0dd3294d",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 521,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to update the details of a request within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Update Request Details - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-update-request-details-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
